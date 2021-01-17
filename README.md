@@ -1,2 +1,2 @@
-# ibgroups.github.io
+# ibgroups
 IB Spanish WhatsApp Groups
